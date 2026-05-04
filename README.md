@@ -91,6 +91,4 @@ Shoyemi Jonathan Showunmi
 
 ## ⭐ If You Find This Useful
 
-Give the repo a star or fork it to build on it.
-
-That’s what actually separates “good repo” from “gets interviews.”
+Give the repo a star.
