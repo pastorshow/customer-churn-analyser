@@ -63,7 +63,7 @@ By predicting churn early, businesses can take proactive retention actions.
 
 # 📂 Project Structure
 
-Customer-Churn-Project/
+Customer-Churn-Analyser/
 │
 ├── data/                  # Dataset files
 ├── models/                # Saved machine learning models
@@ -74,6 +74,7 @@ Customer-Churn-Project/
 ├── requirements.txt       # Project dependencies
 ├── .gitignore
 └── README.md
+
 
 # ⚙️ Installation Guide
 
@@ -87,7 +88,7 @@ pip install -r requirements.txt
 
 Launch the Streamlit app:
 
-streamlit run src/churn_app.py
+streamlit run app/churn_app.py
 
 The app will open in your browser automatically.
 
