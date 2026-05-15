@@ -1,6 +1,6 @@
 # README.md
 
-# 📉 Customer Churn Prediction Project
+# 📉 Customer Churn Analyser
 
 > Predict customer churn before it happens — using data, machine learning, and interactive analytics.
 
